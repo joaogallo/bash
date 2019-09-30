@@ -1,0 +1,97 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.registro.br
+
+domain:       BR
+
+organisation: Comite Gestor da Internet no Brasil
+address:      Av. das NaÃ§Ãµes Unidas, 11541, 7Â° andar
+address:      SÃ£o Paulo  SP 04578-000
+address:      Brazil
+
+contact:      administrative
+name:         Demi Getschko
+organisation: Comite Gestor da Internet no Brasil
+address:      Av. das NaÃ§Ãµes Unidas, 11541, 7Â° andar
+address:      SÃ£o Paulo  SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+fax-no:       +55 11 5509 3501
+e-mail:       demi@registro.br
+
+contact:      technical
+name:         Frederico Augusto de Carvalho Neves
+organisation: Registro .br
+address:      Av. das NaÃ§Ãµes Unidas, 11541, 7Â° andar
+address:      SÃ£o Paulo  SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+fax-no:       +55 11 5509 3501
+e-mail:       fneves@registro.br
+
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
+nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
+nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
+ds-rdata:     2471 13 2 5E4F35998B8F909557FA119C4CBFDCA2D660A26F069EF006B403758A07D1A2E4
+
+whois:        whois.registro.br
+
+status:       ACTIVE
+remarks:      Registration information: http://registro.br/
+
+created:      1989-04-18
+changed:      2019-08-01
+source:       IANA
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-09-26T15:08:05-03:00
+
+domain:      appprova.com.br
+owner:       Educação Inovação e Tecnologia S.A
+ownerid:     14.397.809/0001-03
+responsible: João Guilherme Rodrigues Gallo
+country:     BR
+owner-c:     EDITE3
+admin-c:     EDITE3
+tech-c:      EDITE3
+billing-c:   EDITE3
+nserver:     ns-1321.awsdns-37.org
+nsstat:      20190926 AA
+nslastaa:    20190926
+nserver:     ns-555.awsdns-05.net
+nsstat:      20190926 AA
+nslastaa:    20190926
+nserver:     ns-250.awsdns-31.com
+nsstat:      20190926 AA
+nslastaa:    20190926
+saci:        yes
+created:     20120802 #10265605
+changed:     20170711
+expires:     20200802
+status:      published
+
+nic-hdl-br:  EDITE3
+person:      EDUCAÇÃO, INOVAÇÃO E TECNOLOGIA
+e-mail:      compras@appprova.com.br
+country:     BR
+created:     20170530
+changed:     20190802
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
