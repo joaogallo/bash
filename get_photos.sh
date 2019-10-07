@@ -1,4 +1,5 @@
 #!/bin/bash
+#Eu sou Trybe e....
 
 function getImages() {
 KEY=$1
