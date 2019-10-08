@@ -1,5 +1,9 @@
 #!/bin/bash
+<<<<<<< HEAD
 # Vou ter muito sucesso na programação!
+=======
+#Eu sou Trybe e...
+>>>>>>> 10e57177c4279f64e6ceaf05c7780944e83b9402
 
 function getImages() {
 KEY=$1
