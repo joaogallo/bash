@@ -1,5 +1,8 @@
 #!/bin/bash
+
+#Eu sou Trybe e...
 # Vou ter muito sucesso na programação!
+
 
 function getImages() {
 KEY=$1
